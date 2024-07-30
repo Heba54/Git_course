@@ -56,7 +56,7 @@ a {
 }
 .home {
     height: 100vh;
-    background-image: url(../css/images/background1.jpg);
+    background-image: url(../Git_course/images/background1.jpg);
     background-size: cover;
     position: relative;
 }
